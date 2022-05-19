@@ -1,0 +1,13 @@
+.secret
+node_modules/
+.idea/
+build/contracts/
+artifacts/
+*.json
+public/*
+src/*
+web3j/solc/*
+web3j/java/*
+*.bat
+*.ps1
+*.csv
